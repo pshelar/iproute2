@@ -126,7 +126,7 @@ void iplink_usage(void)
 			"	   gre | gretap | erspan | ip6gre | ip6gretap | ip6erspan |\n"
 			"	   vti | nlmon | team_slave | bond_slave | bridge_slave |\n"
 			"	   ipvlan | ipvtap | geneve | bareudp | vrf | macsec | netdevsim | rmnet |\n"
-			"	   xfrm }\n");
+			"	   xfrm | gtp }\n");
 	}
 	exit(-1);
 }
